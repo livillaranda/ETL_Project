@@ -8,44 +8,40 @@ CREATE TABLE "cities" (
 CREATE TABLE "mlb" (
   "id" int PRIMARY KEY,
   "team_name" varchar,
-  "city_name" varchar,
-  "wins_in_2010" int,
-  "losses_in_2010" int,
-  "ties_in_2010" int,
-  "winning_percent" float,
+  "win" int,
+  "loss" int,
+  "tie" int,
+  "win_percent" float,
   "city_id" int
 );
 
 CREATE TABLE "nfl" (
   "id" int PRIMARY KEY,
   "team_name" varchar,
-  "city_name" varchar,
-  "wins_in_2010" int,
-  "losses_in_2010" int,
-  "ties_in_2010" int,
-  "winning_percent" float,
+  "win" int,
+  "loss" int,
+  "tie" int,
+  "win_percent" float,
   "city_id" int
 );
 
 CREATE TABLE "nba" (
   "id" int PRIMARY KEY,
   "team_name" varchar,
-  "city_name" varchar,
-  "wins_in_2010" int,
-  "losses_in_2010" int,
-  "ties_in_2010" int,
-  "winning_percent" float,
+  "win" int,
+  "loss" int,
+  "tie" int,
+  "win_percent" float,
   "city_id" int
 );
 
 CREATE TABLE "nhl" (
   "id" int PRIMARY KEY,
   "team_name" varchar,
-  "city_name" varchar,
-  "wins_in_2010" int,
-  "losses_in_2010" int,
-  "ties_in_2010" int,
-  "winning_percent" float,
+  "win" int,
+  "loss" int,
+  "tie" int,
+  "win_percent" float,
   "city_id" int
 );
 
