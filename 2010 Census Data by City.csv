@@ -24,7 +24,7 @@ ID,City Name,State,2010 Population
 23,Minneapolis,Minnesota,"3,333,633"
 24,Nashville,Tennessee,"1,646,200"
 25,New York City,New York,"18,897,109"
-26,Oakland,California,
+26,Bay Area,California,"4,335,391"
 27,Oklahoma City,Oklahoma,"1,252,987"
 28,Orlando,Florida,"2,134,411"
 29,Philadelphia,Pennsylvania,"5,965,343"
@@ -35,10 +35,10 @@ ID,City Name,State,2010 Population
 34,Salt Lake City,Utah,"1,087,873"
 35,San Antonio,Texas,"2,142,508"
 36,San Diego,California,"3,095,313"
-37,San Francisco,California,
-38,Seattle,Washington,"3,439,809"
-39,St. Louis,Missouri,"2,787,701"
-40,Tampa Bay,Florida,"2,783,243"
-41,Dallas,Texas,"6,366,542"
-42,Toronto,Ontario,
-43,Washington,DC,"5,649,540"
+37,Seattle,Washington,"3,439,809"
+38,St. Louis,Missouri,"2,787,701"
+39,Tampa Bay,Florida,"2,783,243"
+40,Dallas,Texas,"6,366,542"
+41,Canada,Canada,"33,739,859"
+42,Washington,DC,"5,649,540"
+43,New Orleans,Louisiana ,"1,189,866"
