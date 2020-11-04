@@ -1,0 +1,31 @@
+,team_name,win,loss,tie,win_percent,city_id
+0,Boston Celtics*,50,32,0,.610,4
+1,Toronto Raptors,40,42,0,.488,41
+2,New York Knicks,29,53,0,.354,25
+3,Philadelphia 76ers,27,55,0,.329,29
+4,New Jersey Nets,12,70,0,.146,25
+5,Cleveland Cavaliers*,61,21,0,.744,10
+6,Milwaukee Bucks*,46,36,0,.561,22
+7,Chicago Bulls*,41,41,0,.500,7
+8,Indiana Pacers,32,50,0,.390,15
+9,Detroit Pistons,27,55,0,.329,12
+10,Orlando Magic*,59,23,0,.720,28
+11,Atlanta Hawks*,53,29,0,.646,2
+12,Miami Heat*,47,35,0,.573,21
+13,Charlotte Bobcats*,44,38,0,.537,6
+14,Washington Wizards,26,56,0,.317,42
+15,Denver Nuggets*,53,29,0,.646,11
+16,Utah Jazz*,53,29,0,.646,34
+17,Portland Trail Blazers*,50,32,0,.610,31
+18,Oklahoma City Thunder*,50,32,0,.610,27
+19,Minnesota Timberwolves,15,67,0,.183,23
+20,Los Angeles Lakers*,57,25,0,.695,19
+21,Phoenix Suns*,54,28,0,.659,1
+22,Los Angeles Clippers,29,53,0,.354,19
+23,Golden State Warriors,26,56,0,.317,26
+24,Sacramento Kings,25,57,0,.305,33
+25,Dallas Mavericks*,55,27,0,.671,40
+26,San Antonio Spurs*,50,32,0,.610,35
+27,Houston Rockets,42,40,0,.512,14
+28,Memphis Grizzlies,40,42,0,.488,20
+29,New Orleans Hornets,37,45,0,.451,43

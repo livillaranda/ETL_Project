@@ -1,0 +1,33 @@
+,team_name,win,loss,tie,win_percent,city_id
+0,New England Patriots*,10,6,0,0.625,4
+1,New York Jets+,9,7,0,0.563,25
+2,Miami Dolphins,7,9,0,0.438,21
+3,Buffalo Bills,6,10,0,0.375,5
+4,Cincinnati Bengals*,10,6,0,0.625,9
+5,Baltimore Ravens+,9,7,0,0.563,3
+6,Pittsburgh Steelers,9,7,0,0.563,30
+7,Cleveland Browns,5,11,0,0.313,10
+8,Indianapolis Colts*,14,2,0,0.875,15
+9,Houston Texans,9,7,0,0.563,14
+10,Tennessee Titans,8,8,0,0.5,24
+11,Jacksonville Jaguars,7,9,0,0.438,16
+12,San Diego Chargers*,13,3,0,0.813,36
+13,Denver Broncos,8,8,0,0.5,11
+14,Oakland Raiders,5,11,0,0.313,26
+15,Kansas City Chiefs,4,12,0,0.25,17
+16,Dallas Cowboys*,11,5,0,0.688,40
+17,Philadelphia Eagles+,11,5,0,0.688,29
+18,New York Giants,8,8,0,0.5,25
+19,Washington Redskins,4,12,0,0.25,43
+20,Minnesota Vikings*,12,4,0,0.75,23
+21,Green Bay Packers+,11,5,0,0.688,13
+22,Chicago Bears,7,9,0,0.438,7
+23,Detroit Lions,2,14,0,0.125,12
+24,New Orleans Saints*,13,3,0,0.813,43
+25,Atlanta Falcons,9,7,0,0.563,2
+26,Carolina Panthers,8,8,0,0.5,6
+27,Tampa Bay Buccaneers,3,13,0,0.188,39
+28,Arizona Cardinals*,10,6,0,0.625,1
+29,San Francisco 49ers,8,8,0,0.5,26
+30,Seattle Seahawks,5,11,0,0.313,37
+31,St. Louis Rams,1,15,0,0.063,38
