@@ -1,4 +1,4 @@
-ID,City Name,State,2010 Population
+id,city_name,state_name,population
 1,Phoenix,Arizona,"4,192,887"
 2,Atlanta,Georgia,"5,286,728"
 3,Baltimore,Maryland,"2,710,489"
