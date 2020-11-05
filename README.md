@@ -46,4 +46,4 @@ After creating the schema, we loaded the data into the tables.  The city data ha
 We tested our database by completing queries to connect sports teams information with the city information.  The connection of the keys was successful and the success is showcased by queries included in the repo. 
 
 ## Conclusions, Key Findings, and Insights to our ETL Project 
-We enjoyed working on the ETL project to see the completion of finding data, cleaning data, updating data columns, and loading this data into a useable database to complete analysis.  It was cool to see a full picture and combine different elements of the program. 
+We enjoyed working on the ETL project to see the completion of finding data, cleaning data, updating data columns, and loading this data into a functional database to complete analysis.  It was cool to see a full picture and combine different elements of the program. 
