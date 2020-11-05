@@ -21,18 +21,20 @@ Each data set had to be formatted into a usable format and Excel and Python were
 Using the Census data as a base, we extracted the city name, state name, and population of the city.  Then, we added a column to create a unique identify/primary key for the cities.  This will be later used as a foreign key to connect each sports team to the city it resides in. 
 
 ### NBA Data
+NBA data was extracted from the above-mentioned site, but required web-scraping. This was completed through Python, where unneeded columns (data) were removed and blank columns (for ties and city location) were added. As there were no ties, the column was filled with zeroes. The cities were entered as numbers to match the Census data. Column names were changed to ensure a seamless import of the data from CSV to Postgres.
 
 ### MLB Data 
 MLB data was extracted from the website to include the sports name, city, wins, losses, and ties.  Then the win-percentage was calculated for each team.  From there, the Census data and MLB data were loaded into a Jupyter notebook.  We created an incremental row to add a primary key to the MLB data. We created a dictionary in which the city name was the key and the primary key in the city table was the value.  Then, going row by row, the foreign key was added to the dataframe.  We dropped the city column so that the only connected to the city was through the primary/foreign key connection.  This was then extracted as a CSV to use later in loading the data to PostgreSQL. 
 
 ### NFL Data 
+NFL data was split into two parts from the site referenced above. It was based on the two conferences in the NFL, the AFC and the NFC. As they were both Excel documents, the import into Python was easier than the NBA web-scraping effort. Additional columns were added for ties and city location, as unneeded columns were dropped. The columns were renamed and the data was converted to CSV for loading into Postgres.
 
 ### NHL Data 
 NHL data followed the exact pattern as the MLB data listed above.  To summarize, the win percentage was calculated, a primary key was added, and the city was connected to the primary key in the city table to use as a foreign key in the NHL table.  Lastly, it was extracted as a CSV to use in the database. 
 
 
 ## Database Work - PostgreSQL 
-As mentioned above, the city table has a primary key that is used as a foreign key in the sports teams tables.  After seeing the data columns, we generated an ERD to use in creation of the schema in PostgreSQL.  This ERD photo is located in the repo.  This ERD shows columns of each table and the foreign key reference to the city table. 
+As mentioned above, the city table has a primary key that is used as a foreign key in the sports teams tables.  After seeing the data columns, we generated an ERD to use in creation of the schema in PostgreSQL.  This ERD and its photo are located in the repo.  This ERD shows columns of each table and the foreign key reference to the city table. 
 
 
 This ERD was used in creation of the schema in PostgreSQL.  The schema creation for the database and tables and the connection of the foreign key is located in the repo. 
