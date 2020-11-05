@@ -7,12 +7,12 @@ We decided to investigate the wins, losses, ties, and win percentage for the fou
 ## Data 
 
 After deciding to use city population data along with the sports data, we picked 2010 as that is the last year of the US Census with information on all cities.  Then, we found data for the sport leagues for the same year.  Here are links to the data sources we used: 
-https://www.sports-reference.com/ 	
-https://www.baseball-reference.com/leagues/MLB/2010.shtml 
-https://www.hockey-reference.com/leagues/NHL_2010.html 
-https://www.basketball-reference.com/leagues/NBA_2010.html
-https://www.pro-football-reference.com/years/2009/
-https://www.census.gov/programs-surveys/decennial-census/data/datasets.2010.html
+- https://www.sports-reference.com/ 	
+-- https://www.baseball-reference.com/leagues/MLB/2010.shtml 
+-- https://www.hockey-reference.com/leagues/NHL_2010.html 
+-- https://www.basketball-reference.com/leagues/NBA_2010.html
+-- https://www.pro-football-reference.com/years/2009/
+- https://www.census.gov/programs-surveys/decennial-census/data/datasets.2010.html
 
 ## Cleaning the Data 
 Each data set had to be formatted into a usable format and Excel and Python were used to clean the data, complete necessary calculations, and generate the foreign keys necessary for the relational database, explained below. 
